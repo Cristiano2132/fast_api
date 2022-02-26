@@ -7,3 +7,4 @@ def func(x):
 def test_answer():
     ''' Teste '''
     assert func(3) == 4
+
